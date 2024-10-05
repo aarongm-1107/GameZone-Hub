@@ -1,0 +1,15 @@
+.game-container {
+    text-align: center;
+    margin: auto;
+}
+
+canvas {
+    border: 2px solid #4caf50;
+    background-color: #ffffff;
+}
+
+#score {
+    font-size: 20px;
+    margin-top: 10px;
+    color: #4caf50;
+}
